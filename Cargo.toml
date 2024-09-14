@@ -1,0 +1,7 @@
+[package]
+name = "resolve_name"
+version = "0.1.0"
+authors = [ "Wink Saville <wink@saville.com>", "ChatGpt4o" ]
+edition = "2021"
+
+[dependencies]
